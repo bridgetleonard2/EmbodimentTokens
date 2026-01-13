@@ -1,0 +1,2802 @@
+[
+    {
+        "id": 0,
+        "image": "000000280760.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a chair are shown in the image. Which side of the person is the chair on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "000000011737.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "000000457678.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a fruit stand are shown in the image. Which side of the person is the fruit stand on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "000000018179.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a train are shown in the image. Which side of the person is the train on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "000000066662.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a minivan are shown in the image. Which side of the person is the minivan on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "000000259576.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "000000108274.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pipe structure are shown in the image. Which side of the person is the pipe structure on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "000000169607.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a boat are shown in the image. Which side of the person is the boat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "000000153880.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a toilet are shown in the image. Which side of the person is the toilet on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "000000109503.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "000000534817.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bird are shown in the image. Which side of the person is the bird on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "000000055107.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a boat are shown in the image. Which side of the person is the boat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "000000346560.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a dog are shown in the image. Which side of the person is the dog on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "000000458596.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a city skyline are shown in the image. Which side of the person is the city skyline on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "000000100896.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "000000417115.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bus headlight are shown in the image. Which side of the person is the bus headlight on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "000000273230.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "000000413560.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a giraffe are shown in the image. Which side of the person is the giraffe on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "000000195701.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "000000198856.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a computer are shown in the image. Which side of the person is the computer on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "000000575601.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a blue broom are shown in the image. Which side of the person is the blue broom on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "000000357787.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a green sign are shown in the image. Which side of the person is the green sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "000000177948.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "000000275919.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a brown cat are shown in the image. Which side of the person is the brown cat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "000000137884.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "000000206912.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a suitcase are shown in the image. Which side of the person is the suitcase on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "000000323784.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a toilet seat handle are shown in the image. Which side of the person is the toilet seat handle on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "000000205451.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red mat are shown in the image. Which side of the person is the red mat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "000000571389.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball glove are shown in the image. Which side of the person is the baseball glove on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "000000487876.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a redwood tree are shown in the image. Which side of the person is the redwood tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "000000003580.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kitchen chairs are shown in the image. Which side of the person is the kitchen chairs on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "000000222917.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a oven are shown in the image. Which side of the person is the oven on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "000000226917.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a light switch are shown in the image. Which side of the person is the light switch on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "000000383438.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red 4 sign are shown in the image. Which side of the person is the red 4 sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "000000015725.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wood chair are shown in the image. Which side of the person is the wood chair on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "000000333756.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "000000233143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a green book are shown in the image. Which side of the person is the green book on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "000000498795.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "000000575273.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a door handle are shown in the image. Which side of the person is the door handle on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "000000459600.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a brown dog are shown in the image. Which side of the person is the brown dog on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "000000442225.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a water cup are shown in the image. Which side of the person is the water cup on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "000000462065.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "000000392055.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a window are shown in the image. Which side of the person is the window on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "000000234100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a computer are shown in the image. Which side of the person is the computer on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "000000310104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "000000296492.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red cup are shown in the image. Which side of the person is the red cup on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "000000134705.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "000000449522.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pepper grinder are shown in the image. Which side of the person is the pepper grinder on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "000000324605.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red tree are shown in the image. Which side of the person is the red tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "000000087029.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a backpack are shown in the image. Which side of the person is the backpack on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "000000069320.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "000000560626.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "000000253251.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red soccerball are shown in the image. Which side of the person is the red soccerball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "000000516607.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a cow are shown in the image. Which side of the person is the cow on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "000000104585.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a building window are shown in the image. Which side of the person is the building window on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "000000146654.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a surfboard are shown in the image. Which side of the person is the surfboard on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "000000228920.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plastic bag are shown in the image. Which side of the person is the plastic bag on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "000000013595.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a paper bag are shown in the image. Which side of the person is the paper bag on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "000000123914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red suitcase are shown in the image. Which side of the person is the red suitcase on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "000000065587.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a black box are shown in the image. Which side of the person is the black box on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "image": "000000565146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wood plank are shown in the image. Which side of the person is the wood plank on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "image": "000000573065.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "image": "000000046936.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a horse are shown in the image. Which side of the person is the horse on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "image": "000000517947.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a computer are shown in the image. Which side of the person is the computer on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "image": "000000318384.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "image": "000000547224.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a train are shown in the image. Which side of the person is the train on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "image": "000000459694.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wall art are shown in the image. Which side of the person is the wall art on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "image": "000000276841.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pink donut are shown in the image. Which side of the person is the pink donut on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "image": "000000107360.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a snowboard are shown in the image. Which side of the person is the snowboard on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "image": "000000060457.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a white bench are shown in the image. Which side of the person is the white bench on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "image": "000000510087.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a rope are shown in the image. Which side of the person is the rope on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "image": "000000393593.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plant are shown in the image. Which side of the person is the plant on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "image": "000000061983.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a computer are shown in the image. Which side of the person is the computer on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "image": "000000476468.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a dog are shown in the image. Which side of the person is the dog on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "image": "000000093725.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "image": "000000041345.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bookshelf are shown in the image. Which side of the person is the bookshelf on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "image": "000000157190.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a microwave are shown in the image. Which side of the person is the microwave on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "image": "000000336370.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a window are shown in the image. Which side of the person is the window on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "image": "000000210580.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a park sign are shown in the image. Which side of the person is the park sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "image": "000000197780.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "image": "000000199865.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red flag are shown in the image. Which side of the person is the red flag on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "image": "000000311645.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a city skyline are shown in the image. Which side of the person is the city skyline on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "image": "000000394572.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a palm tree are shown in the image. Which side of the person is the palm tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "image": "000000266520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a cow are shown in the image. Which side of the person is the cow on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "image": "000000306640.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a refrigerator are shown in the image. Which side of the person is the refrigerator on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "image": "000000441841.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a blue sign are shown in the image. Which side of the person is the blue sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "image": "000000284001.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a polo stick are shown in the image. Which side of the person is the polo stick on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "image": "000000173909.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "image": "000000563885.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a lamp are shown in the image. Which side of the person is the lamp on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "image": "000000035672.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pink yoga ball are shown in the image. Which side of the person is the pink yoga ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "image": "000000258734.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a blue bottle are shown in the image. Which side of the person is the blue bottle on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "image": "000000152502.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a snowboard are shown in the image. Which side of the person is the snowboard on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "image": "000000563951.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a black netting are shown in the image. Which side of the person is the black netting on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "image": "000000210702.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a car are shown in the image. Which side of the person is the car on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "image": "000000561594.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a blue sign are shown in the image. Which side of the person is the blue sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "image": "000000403253.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a small lamp post are shown in the image. Which side of the person is the small lamp post on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "image": "000000331279.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a white writing are shown in the image. Which side of the person is the white writing on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "image": "000000320461.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a green rail are shown in the image. Which side of the person is the green rail on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "image": "000000236015.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a white sign are shown in the image. Which side of the person is the white sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "image": "000000450902.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tire are shown in the image. Which side of the person is the tire on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "image": "000000339798.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "image": "000000405093.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "image": "000000256940.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a quilt blanket are shown in the image. Which side of the person is the quilt blanket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "image": "000000203730.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pan of yellow potatoes are shown in the image. Which side of the person is the pan of yellow potatoes on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "image": "000000260852.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball bat are shown in the image. Which side of the person is the baseball bat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "image": "000000001315.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a row of silver bikes are shown in the image. Which side of the person is the row of silver bikes on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "image": "000000055516.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a orange park feature are shown in the image. Which side of the person is the orange park feature on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "image": "000000480470.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "image": "000000573759.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a white bucket are shown in the image. Which side of the person is the white bucket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "image": "000000091725.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pizza are shown in the image. Which side of the person is the pizza on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "image": "000000198054.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a electric sign are shown in the image. Which side of the person is the electric sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "image": "000000119761.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red car are shown in the image. Which side of the person is the red car on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "image": "000000101697.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a parrot are shown in the image. Which side of the person is the parrot on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "image": "000000267152.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a row of wine bottles are shown in the image. Which side of the person is the row of wine bottles on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "image": "000000508017.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "image": "000000398260.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a building are shown in the image. Which side of the person is the building on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "image": "000000365317.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a shadow are shown in the image. Which side of the person is the shadow on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "image": "000000399605.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a boat are shown in the image. Which side of the person is the boat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "image": "000000483630.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bench are shown in the image. Which side of the person is the bench on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "image": "000000320612.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a ramp are shown in the image. Which side of the person is the ramp on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "image": "000000258761.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a license plate are shown in the image. Which side of the person is the license plate on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "image": "000000378028.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a stove are shown in the image. Which side of the person is the stove on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "image": "000000578993.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a surfboard are shown in the image. Which side of the person is the surfboard on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "image": "000000153270.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a TV are shown in the image. Which side of the person is the TV on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "image": "000000578736.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a palm tree are shown in the image. Which side of the person is the palm tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "image": "000000326065.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wood pole are shown in the image. Which side of the person is the wood pole on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "image": "000000413324.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a table are shown in the image. Which side of the person is the table on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "image": "000000316147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "image": "000000225721.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a laptop are shown in the image. Which side of the person is the laptop on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "image": "000000290221.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "image": "000000047191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bus sign are shown in the image. Which side of the person is the bus sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "image": "000000117532.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a toilet are shown in the image. Which side of the person is the toilet on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "image": "000000275316.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plane are shown in the image. Which side of the person is the plane on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "image": "000000512806.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a potted plant are shown in the image. Which side of the person is the potted plant on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "image": "000000246040.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "image": "000000207292.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wood door are shown in the image. Which side of the person is the wood door on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "image": "000000163543.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red pole are shown in the image. Which side of the person is the red pole on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "image": "000000525668.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a window are shown in the image. Which side of the person is the window on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "image": "000000203479.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a lamp are shown in the image. Which side of the person is the lamp on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "image": "000000365194.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "image": "000000421897.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plate are shown in the image. Which side of the person is the plate on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "image": "000000508053.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "image": "000000120061.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a oven are shown in the image. Which side of the person is the oven on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "image": "000000418292.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a stove are shown in the image. Which side of the person is the stove on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "image": "000000066406.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a elephant are shown in the image. Which side of the person is the elephant on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "image": "000000105504.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "image": "000000421361.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "image": "000000289572.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a chair are shown in the image. Which side of the person is the chair on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "image": "000000127620.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a orange umbrella are shown in the image. Which side of the person is the orange umbrella on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "image": "000000419363.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "image": "000000132307.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a bush are shown in the image. Which side of the person is the bush on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "image": "000000133011.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a trash can are shown in the image. Which side of the person is the trash can on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "image": "000000030067.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "image": "000000194700.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball bat are shown in the image. Which side of the person is the baseball bat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "image": "000000160837.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a towel are shown in the image. Which side of the person is the towel on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "image": "000000458022.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a pile of oranges are shown in the image. Which side of the person is the pile of oranges on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "image": "000000101877.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a refrigerator are shown in the image. Which side of the person is the refrigerator on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "image": "000000031442.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a trash can are shown in the image. Which side of the person is the trash can on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "image": "000000118936.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a water glass are shown in the image. Which side of the person is the water glass on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "image": "000000266990.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a window are shown in the image. Which side of the person is the window on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "image": "000000304473.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "image": "000000210190.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "image": "000000401613.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "image": "000000048320.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a backpack are shown in the image. Which side of the person is the backpack on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "image": "000000522163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a metal drawers are shown in the image. Which side of the person is the metal drawers on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "image": "000000008772.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a red light are shown in the image. Which side of the person is the red light on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "image": "000000185486.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball bat are shown in the image. Which side of the person is the baseball bat on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "image": "000000108651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis racket are shown in the image. Which side of the person is the tennis racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "image": "000000084558.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plane are shown in the image. Which side of the person is the plane on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "image": "000000011129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "image": "000000398158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a couch are shown in the image. Which side of the person is the couch on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "image": "000000527649.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a wall photo are shown in the image. Which side of the person is the wall photo on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "image": "000000033773.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "image": "000000540868.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a remote are shown in the image. Which side of the person is the remote on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "image": "000000010319.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tree are shown in the image. Which side of the person is the tree on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "image": "000000272735.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a car are shown in the image. Which side of the person is the car on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "image": "000000244597.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a vase are shown in the image. Which side of the person is the vase on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "image": "000000219737.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tennis ball are shown in the image. Which side of the person is the tennis ball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "image": "000000194850.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a racket are shown in the image. Which side of the person is the racket on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "image": "000000412247.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a baseball are shown in the image. Which side of the person is the baseball on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "image": "000000376715.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a cow are shown in the image. Which side of the person is the cow on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "image": "000000272876.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a door are shown in the image. Which side of the person is the door on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "image": "000000041753.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a teddy bear are shown in the image. Which side of the person is the teddy bear on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "image": "000000208754.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a sink are shown in the image. Which side of the person is the sink on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "image": "000000439427.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a snow ramp are shown in the image. Which side of the person is the snow ramp on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "image": "000000149086.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tv are shown in the image. Which side of the person is the tv on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "image": "000000404322.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a building door are shown in the image. Which side of the person is the building door on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "image": "000000435908.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a sign are shown in the image. Which side of the person is the sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "image": "000000305004.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a surfboard are shown in the image. Which side of the person is the surfboard on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "image": "000000489279.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a purple sign are shown in the image. Which side of the person is the purple sign on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "image": "000000227948.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a tower are shown in the image. Which side of the person is the tower on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "image": "000000201111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a phone are shown in the image. Which side of the person is the phone on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "image": "000000544060.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a rock are shown in the image. Which side of the person is the rock on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "image": "000000549936.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a heard of cows are shown in the image. Which side of the person is the heard of cows on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "image": "000000048893.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a frisbee are shown in the image. Which side of the person is the frisbee on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "image": "000000273002.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a chair are shown in the image. Which side of the person is the chair on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "image": "000000244520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a storage unit are shown in the image. Which side of the person is the storage unit on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "image": "000000054692.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a vase are shown in the image. Which side of the person is the vase on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "left"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "image": "000000324915.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a kite are shown in the image. Which side of the person is the kite on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "image": "000000403940.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA person and a plane are shown in the image. Which side of the person is the plane on from the person's perspective?"
+            },
+            {
+                "from": "gpt",
+                "value": "right"
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+Bootstrap: docker
+From: nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
+
+%post
+    apt-get update -y
+    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        python3 \
+        python3-tk \
+        python3-pip \
+        python3-setuptools \
+        python3-dev \
+        build-essential \
+        libglib2.0-0 \
+        libglib2.0-dev \
+        git
+
+    rm -rf /var/lib/apt/lists/*
+
+    pip3 install numpy==1.24.4 \
+                 torch==2.1.0 \
+                 Pillow==9.4.0 \
+                 transformers==4.37.2 \
+                 tokenizers==0.15.1 \
+                 peft==0.11.1 \
+                 packaging==23.1 \
+                 deepspeed==0.12.6 \
+                 bitsandbytes==0.42.0 \
+                 accelerate==0.21.0 \
+                 scipy==1.10.1 \
+                 sentencepiece==0.1.99 \
+                 protobuf==4.25.3 \
+                 wandb==0.19.9 \
+                 shortuuid==1.0.11
+
+
+    pip3 install flash-attn --no-build-isolation
+
+%runscript
+    exec "$@"
