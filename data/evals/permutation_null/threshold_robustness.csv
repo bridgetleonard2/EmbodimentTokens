@@ -1,0 +1,7 @@
+p_threshold,contrast,multimodal_projector_base,multimodal_projector_pp,language_model_base,language_model_pp,diff_multimodal_projector_(pp-base),diff_language_model_(pp-base)
+0.05,unalign_align,1144,1317,931,977,173,46
+0.05,align_unalign,1082,1309,946,940,227,-6
+0.01,unalign_align,695,873,500,499,178,-1
+0.01,align_unalign,609,834,492,518,225,26
+0.001,unalign_align,296,443,182,190,147,8
+0.001,align_unalign,235,413,177,200,178,23

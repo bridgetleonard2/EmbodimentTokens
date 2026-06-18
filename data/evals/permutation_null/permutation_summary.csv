@@ -1,0 +1,13 @@
+type,model_layer,contrast,observed,null_mean,ci_low_2.5,ci_high_97.5,p_empirical
+per_model,multimodal_projector_base,unalign_align,1144,258.07,29.0,889.07,0.0051
+per_model,multimodal_projector_base,align_unalign,1082,258.13,29.0,891.02,0.0082
+per_model,multimodal_projector_pp,unalign_align,1317,257.34,27.0,832.05,0.0001
+per_model,multimodal_projector_pp,align_unalign,1309,257.51,28.0,837.02,0.0001
+per_model,language_model_base,unalign_align,931,257.43,34.0,862.02,0.0194
+per_model,language_model_base,align_unalign,946,257.39,35.0,864.07,0.018
+per_model,language_model_pp,unalign_align,977,255.75,48.0,711.02,0.0018
+per_model,language_model_pp,align_unalign,940,255.95,47.0,712.0,0.0027
+difference_pp_minus_base,multimodal_projector,unalign_align,173,-0.73,-190.0,147.0,0.0143
+difference_pp_minus_base,multimodal_projector,align_unalign,227,-0.62,-190.0,148.02,0.0035
+difference_pp_minus_base,language_model,unalign_align,46,-1.68,-248.0,155.0,0.3017
+difference_pp_minus_base,language_model,align_unalign,-6,-1.44,-250.02,157.0,0.6116
